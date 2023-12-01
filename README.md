@@ -2,8 +2,6 @@
 
 Projects developed for units during the Master's course in Information Technology at the University of Western Australia.
 
-# Data analysis and Business intelligence projects
-
 This repository serves as a brief reflection of my academic journey at the University of Western Australia, culminating in the completion of my Master's in Information Technology in July 2023, with a focus on Python, Java.
 
 ## Academic Highlights
