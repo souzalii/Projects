@@ -1,4 +1,4 @@
-# projects
+# Projects
 
 Projects developed for units during the Master's course in Information Technology at the University of Western Australia.
 
@@ -28,17 +28,17 @@ As part of my coursework, I completed several projects that allowed me to apply 
 
 In this project, I developed a Python program to analyze location data from a CSV file. The program takes input parameters, including a query location ID and rectangular dimensions, and returns relevant information. It identifies locations within the specified region, locations with the same category as the query location, and calculates distances to these locations. Additionally, it provides statistical results like the average and standard deviation of distances. The program is designed to handle various scenarios, including different data files and missing data. It's a practical demonstration of my Python programming skills and problem-solving abilities, emphasizing efficiency and code clarity. This project showcases my ability to work with real-world data and extract meaningful insights.
 
-![Project 1](Python/Project-1/example.jpg)
+![Project 1](Project-1/example.jpg)
 
-[See more](Python/Project-1/)
+[See more](Project-1/)
 
 ### Project 2: [Python Location Data Analysis](Python/Project-2/)
 
 In this project, I developed a Python program to analyze location data from CSV files, demonstrating my proficiency in data manipulation, geospatial analysis, and algorithm development in Python. The program processes latitude, longitude, and category information to deliver valuable insights. It performs several tasks, including data cleaning (ensuring data integrity by filtering out invalid or duplicate entries), geospatial analysis (calculating distances between locations and identifying locations within a specified radius of interest), category analysis (categorizing locations and providing statistics on their distribution), similarity calculation (computing cosine similarity between two specified regions), and finding the closest location of each category to two specified points. This project showcases my ability to extract meaningful insights from complex datasets and solve real-world problems efficiently.
 
-![Project 2](Python/Project-2/example.jpg)
+![Project 2](Project-2/example.jpg)
 
-[See more](Python/Project-2/)
+[See more](Project-2/)
 
 Feel free to explore this repository to learn more about my academic journey and the projects I've worked on. If you have any questions or would like to connect, please don't hesitate to reach out.
 
